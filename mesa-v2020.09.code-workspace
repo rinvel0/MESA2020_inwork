@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"type_traits": "c",
+			"api.h": "c",
+			"vtss_phy_api.h": "c",
+			"vtss_phy_1g_api.h": "c"
+		}
+	}
+}
